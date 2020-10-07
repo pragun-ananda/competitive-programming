@@ -1,5 +1,5 @@
 // Problem C - Convoy
-// Sort list and iterate through times, making decisions between the next fastest car and 2 * current car
+// https://open.kattis.com/contests/qd7hf2/problems/convoy
 
 #include <iostream>
 #include <algorithm>
