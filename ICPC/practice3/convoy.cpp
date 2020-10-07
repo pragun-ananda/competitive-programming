@@ -1,5 +1,5 @@
 // Problem C - Convoy
-// https://open.kattis.com/contests/qd7hf2/problems/convoy
+// Link: https://open.kattis.com/contests/qd7hf2/problems/convoy
 
 #include <iostream>
 #include <algorithm>
