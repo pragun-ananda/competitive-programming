@@ -1,5 +1,5 @@
-
 // Problem I: Soft Passwords
+// Link: https://open.kattis.com/contests/qd7hf2/problems/softpasswords
 
 #include <cctype>
 #include <iostream>
